@@ -97,10 +97,13 @@ Technology stack: Vue 2.6, Echarts 5.3, RESTful API.
 
 #### **Health Metrics**
 
-1. **Activity Metrics**: Monitor recent activity frequency and new contributor growth rate to evaluate project vibrancy and attractiveness.
-2. **Community Engagement Metrics**: Assess participant diversity and issue response rates to gauge global reach and feedback support capabilities.
-3. **Code Quality Metrics**: Analyze code change stability and issue density to evaluate project maturity and stability.
-4. **Development Metrics**: Observe OpenRank trends and pull request acceptance rates to understand project influence and contributor-friendliness.
+1. **近期活动次数**: 评估项目是否活跃，吸引新用户或贡献者。在选择开源项目时，开发者希望加入一个活跃度高的项目，因为这通常表明项目被积极维护，问题反馈和功能迭代快速。
+2. **新贡献者增长率**: 衡量项目吸引力与社区扩展能力。适用于项目维护团队监控社区的健康状况。当新贡献者增长率较低甚至负增长时，可能表明项目的吸引力下降，需要采取措施（如组织活动、改善文档）。
+3. **问题响应率**: 监控社区对用户反馈的支持能力。高响应率能够增强用户和开发者对项目的信心，低响应率则可能导致社区活跃度下降。
+4. **代码更改稳定性**:评估项目的稳定性与成熟度。适用于需要长期维护的系统。代码更改不稳定的项目可能会出现频繁的大规模修改，影响版本兼容性。
+5. **代码问题密度**:评估项目潜在风险。高代码问题密度可能预示着项目存在代码质量问题，影响开发效率或产品可靠性。
+6. **OpenRank趋势**:评估项目在开源生态中的影响力。用于观察项目是否处于快速发展阶段，适用于制定长期合作或投资决策。
+7. **变更请求接受率**:评估项目对外部贡献的接受程度。高接受率表明项目对贡献者友好，而低接受率可能使贡献者感到沮丧，从而流失。
 
 #### Data from a wide range of sources
 
