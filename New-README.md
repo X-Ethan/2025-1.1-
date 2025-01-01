@@ -103,6 +103,19 @@ Technology stack: Vue 2.6, Echarts 5.3, RESTful API.
 3. **Code Quality Metrics**: Analyze code change stability and issue density to evaluate project maturity and stability.
 4. **Development Metrics**: Observe OpenRank trends and pull request acceptance rates to understand project influence and contributor-friendliness.
 
+#### Data from a wide range of sources
+
+The data for this large screen comes from 
+
+- [X-lab2017](https://github.com/X-lab2017)
+- [Github API](https://docs.github.com/en/rest)
+
+The API of X-Lab2017 contains information about a wide variety of open source projects, as follows
+
+![image-20231007232555038](https://markdown-picture-1302861826.cos.ap-shanghai.myqcloud.com/img/2023/10/08/20231008141228.png)
+
+The Github API also allows you to find additional information, such as a map of the project's language distribution.
+
 #### **Dynamic Interactive Queries**
 
 The platform enables interactive querying by project name or author, dynamically updating the visualizations based on user inputs. For example, entering **angular/angular** will display data specific to that repository.
