@@ -125,7 +125,10 @@ The platform enables interactive querying by project name or author, dynamically
 
 #### **Interactive Charts**
 
-Hover over charts to explore dynamic features like scrolling, zooming, and value highlighting for a more engaging experience.
+每个图表，鼠标悬停在图表上时，可以进行平动滑动、拖拽缩放、数值显示、AI调用等操作。
+![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-02%20070142.png?raw=true)
+![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-02%20070059.png?raw=true)
+![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-02%20070214.png?raw=true)
 
 #### **Comprehensive Insights**
 
