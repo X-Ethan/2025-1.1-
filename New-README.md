@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-  <br/>OpenRank Health Monitor Big Screen
+  <br/>项目健康度指标可视化平台
 </h1>
 </div>
 
@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Node-v15.14.0-blue)
 [![](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-green)](README-CN.md)
 
-![](https://markdown-picture-1302861826.cos.ap-shanghai.myqcloud.com/img/2023/10/16/20231016020730.png)
+![](https://markdown-picture-1302861826.cos.ap-shanghai.myqcloud.com/img/2025/01/01/health-visualization-platform.png)
 
 The Health Monitor Big Screen is developed as part of the OpenRank competition to evaluate and visualize project health metrics using OpenDigger data.
 
