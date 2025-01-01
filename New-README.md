@@ -8,7 +8,6 @@
 ![](https://img.shields.io/badge/Node-v15.14.0-blue)
 [![](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-green)](README-CN.md)
 
-![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250102055317.jpg?raw=true)
 ![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-01%20205355.png?raw=true)
 ![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250102055304.jpg?raw=true)
 ![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250102055351.jpg?raw=true)
@@ -118,7 +117,8 @@ The Github API also allows you to find additional information, such as a map of 
 
 #### **Dynamic Interactive Queries**
 
-The platform enables interactive querying by project name or author, dynamically updating the visualizations based on user inputs. For example, entering **angular/angular** will display data specific to that repository.
+The platform enables interactive querying by project name or author, dynamically updating the visualizations based on user inputs. For example, entering **X-lab2017/open-digger** will display data specific to that repository.
+![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250102055317.jpg?raw=true)
 
 #### **Interactive Charts**
 
@@ -126,7 +126,7 @@ Hover over charts to explore dynamic features like scrolling, zooming, and value
 
 #### **Comprehensive Insights**
 
-Visualize metrics like language composition, contributor word clouds, project star trends, and OpenRank trends to gain a 360-degree view of project health.
+Visualize metrics like 近期活动次数，新贡献者增长率，问题想要率，代码更改稳定性，代码密度问题和OpenRank趋势 to gain a 360-degree view of project health.
 
 ### Competition Takeaways
 
