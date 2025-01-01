@@ -8,7 +8,11 @@
 ![](https://img.shields.io/badge/Node-v15.14.0-blue)
 [![](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-green)](README-CN.md)
 
-![示例图片](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-01%20205355.png?raw=true)
+![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250102055317.jpg?raw=true)
+![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-01%20205355.png?raw=true)
+![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250102055304.jpg?raw=true)
+![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250102055351.jpg?raw=true)
+![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250102055206.jpg?raw=true)
 
 The Health Monitor Big Screen is developed as part of the OpenRank competition to evaluate and visualize project health metrics using OpenDigger data.
 
