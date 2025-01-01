@@ -115,3 +115,74 @@ Visualize metrics like language composition, contributor word clouds, project st
 ### Competition Takeaways
 
 Through this project, the team gained valuable experience in end-to-end data visualization, combining advanced metrics with user-friendly interfaces to promote open-source adoption and enhance decision-making capabilities. Feedback and suggestions are welcome!
+<div align="center">
+<h1>
+  <br/>项目健康度指标可视化平台
+</h1>
+</div>
+
+![](https://img.shields.io/badge/License-MIT-blue)
+![](https://img.shields.io/badge/Node-v15.14.0-blue)
+[![](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-green)](README-CN.md)
+
+![](/mnt/data/屏幕截图%202025-01-01%20164246.png)
+
+## 关于此项目
+
+此项目是 OpenRank 比赛的一部分，旨在利用 OpenDigger 数据评估和可视化项目健康指标。
+
+一个在线可访问的交互式可视化大屏，用于监控和比较项目健康指标。数据来源于 OpenDigger，并经过处理以实现可视化和战略决策。
+
+项目基于 Vue 和 Echarts 构建，帮助企业优化资源分配和项目管理策略。
+
+## 如何查看？
+
+### 演示视频
+
+[点击此处观看演示视频](https://www.bilibili.com/video/BV1Nh4y1r7Gt/)
+
++ 在浏览器中输入以下 URL 访问应用程序：[http://open-health-monitor.com/#/](http://open-health-monitor.com/#/)
+
+### Docker 部署
+
+1. **安装 Docker**: 确保系统已安装 Docker。请参考官方文档：[https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/)。
+
+2. **拉取镜像**: 使用以下命令下载应用程序的 Docker 镜像：
+
+   ```bash
+   docker pull openrank/health-monitor:latest
+   ```
+
+3. **运行容器**: 使用以下命令启动应用程序：
+
+   ```bash
+   docker run -d -p 8081:8081 openrank/health-monitor
+   ```
+
+   - `-d` 标志表示容器将在后台运行。
+   - `-p 8081:8081` 将容器的端口映射到主机系统。
+
+4. **访问应用程序**: 容器运行后，在浏览器中打开 `http://localhost:8081` 即可访问应用程序。需要停止容器时可使用 `docker stop container-id`。
+
+### 克隆 Github 仓库
+
+地址：[https://github.com/YourRepository/HealthMonitorBigScreen](https://github.com/YourRepository/HealthMonitorBigScreen)
+
++ 本地克隆仓库：
+
+  ```bash
+  git clone https://github.com/YourRepository/HealthMonitorBigScreen.git
+  ```
+
++ 安装依赖项（推荐 Node.js 版本为 15.14.0）：
+
+  ```bash
+  cd HealthMonitorBigScreen
+  npm install
+  ```
+
++ 运行应用程序（默认端口：8080）：
+
+  ```bash
+  npm run serve
+  ```
