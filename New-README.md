@@ -48,7 +48,7 @@ The project is powered 🚀 by Vue and Echarts, and aims to help enterprises opt
 
 ### Github repository clone
 
-Address: [https://github.com/YourRepository/HealthMonitorBigScreen](https://github.com/YourRepository/HealthMonitorBigScreen)
+Address: [https://github.com/zxywx0924/openrank](https://github.com/zxywx0924/openrank)
 
 + Clone the repository locally:
 
