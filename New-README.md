@@ -53,7 +53,7 @@ Address: [https://github.com/zxywx0924/openrank](https://github.com/zxywx0924/op
 + Clone the repository locally:
 
   ```bash
-  git clone https://github.com/YourRepository/HealthMonitorBigScreen.git
+  git clone https://github.com/zxywx0924/openrank.git
   ```
 
 + Install dependencies (Node.js version 15.14.0 is recommended):
