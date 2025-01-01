@@ -20,7 +20,7 @@ The Health Monitor Big Screen is developed as part of the OpenRank competition t
 
 An online-accessible, interactive visualization screen for monitoring and comparing project health metrics. Data is sourced from OpenDigger and processed for visualization and strategic decision-making.
 
-The project is powered 🚀 by Vue and Echarts, and aims to help enterprises optimize resource allocation and project management strategies.
+The project is powered by Vue and Echarts, and aims to help enterprises optimize resource allocation and project management strategies.
 
 ## How to view ?
 
