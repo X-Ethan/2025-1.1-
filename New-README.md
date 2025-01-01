@@ -22,7 +22,7 @@ The project is powered 🚀 by Vue and Echarts, and aims to help enterprises opt
 
 ### Demo video
 
-[Click here to watch the demo video](https://www.bilibili.com/video/BV1Nh4y1r7Gt/)
+[https://www.bilibili.com/video/BV1Nh4y1r7Gt/](https://www.bilibili.com/video/BV1nM6oYKEPR/)
 
 + Access the application online by typing the following URL into your browser: [http://open-health-monitor.com/#/](http://open-health-monitor.com/#/)
 
