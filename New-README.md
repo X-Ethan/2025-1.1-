@@ -24,7 +24,7 @@ The project is powered 🚀 by Vue and Echarts, and aims to help enterprises opt
 
 [https://www.bilibili.com/video/BV1Nh4y1r7Gt/](https://www.bilibili.com/video/BV1nM6oYKEPR/)
 
-+ Access the application online by typing the following URL into your browser:![html]("E:\项目健康度指标可视化平台\index.html")
++ Access the application online by typing the following URL into your browser:[项目健康度指标可视化平台](https://github.com/X-Ethan/2025-1.1-/blob/main/index.html)
 ### Docker deployment
 
 1. **Install Docker**: Ensure Docker is installed on your system. Follow the instructions in the official documentation: [https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/).
