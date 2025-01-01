@@ -127,7 +127,7 @@ The platform enables interactive querying by project name or author, dynamically
 
 For each chart, when hovering the mouse over it, you can perform operations such as panning, drag-and-zoom, value display, and AI invocation.
 
-![](https://github.com/X-Ethan/20251.1-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-02%20070142.png?raw=true)
+![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-02%20070142.png?raw=true)
 
 ![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-02%20070059.png?raw=true)
 
