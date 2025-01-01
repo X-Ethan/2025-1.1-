@@ -97,13 +97,13 @@ Technology stack: Vue 2.6, Echarts 5.3, RESTful API.
 
 #### **Health Metrics**
 
-1. **近期活动次数**: 评估项目是否活跃，吸引新用户或贡献者。在选择开源项目时，开发者希望加入一个活跃度高的项目，因为这通常表明项目被积极维护，问题反馈和功能迭代快速。
-2. **新贡献者增长率**: 衡量项目吸引力与社区扩展能力。适用于项目维护团队监控社区的健康状况。当新贡献者增长率较低甚至负增长时，可能表明项目的吸引力下降，需要采取措施（如组织活动、改善文档）。
-3. **问题响应率**: 监控社区对用户反馈的支持能力。高响应率能够增强用户和开发者对项目的信心，低响应率则可能导致社区活跃度下降。
-4. **代码更改稳定性**:评估项目的稳定性与成熟度。适用于需要长期维护的系统。代码更改不稳定的项目可能会出现频繁的大规模修改，影响版本兼容性。
-5. **代码问题密度**:评估项目潜在风险。高代码问题密度可能预示着项目存在代码质量问题，影响开发效率或产品可靠性。
-6. **OpenRank趋势**:评估项目在开源生态中的影响力。用于观察项目是否处于快速发展阶段，适用于制定长期合作或投资决策。
-7. **变更请求接受率**:评估项目对外部贡献的接受程度。高接受率表明项目对贡献者友好，而低接受率可能使贡献者感到沮丧，从而流失。
+1. **Recent Activity Count**: Evaluates whether a project is active and attracting new users or contributors. When selecting open-source projects, developers prefer joining highly active ones, as this usually indicates frequent maintenance, quick issue resolution, and fast feature iteration.
+2. **New Contributor Growth Rate**: Measures the project's attractiveness and its ability to expand the community. This metric is useful for project maintenance teams to monitor the health of the community. A low or negative growth rate may suggest a decline in the project's appeal, prompting actions like organizing events or improving documentation.
+3. **Issue Response Rate**: Monitors the community's ability to support user feedback. A high response rate boosts user and developer confidence in the project, whereas a low response rate may lead to reduced community activity.
+4. **Code Change Stability**:Assesses the project's stability and maturity, particularly for systems requiring long-term maintenance. Projects with unstable code changes may experience frequent large-scale modifications, potentially impacting version compatibility.
+5. **Code Issue Density**:Evaluates the project's potential risks. High code issue density may indicate problems with code quality, affecting development efficiency or product reliability.
+6. **OpenRank Trends**:Assesses the project's influence within the open-source ecosystem. This metric is used to observe whether a project is in a rapid development phase, making it suitable for long-term collaboration or investment decisions.
+7. **Pull Request Acceptance Rate**:Measures the project's openness to external contributions. A high acceptance rate reflects a contributor-friendly project, while a low acceptance rate may discourage contributors, leading to their loss.
 
 #### Data from a wide range of sources
 
@@ -125,14 +125,17 @@ The platform enables interactive querying by project name or author, dynamically
 
 #### **Interactive Charts**
 
-每个图表，鼠标悬停在图表上时，可以进行平动滑动、拖拽缩放、数值显示、AI调用等操作。
-![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-02%20070142.png?raw=true)
+For each chart, when hovering the mouse over it, you can perform operations such as panning, drag-and-zoom, value display, and AI invocation.
+
+![](https://github.com/X-Ethan/20251.1-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-02%20070142.png?raw=true)
+
 ![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-02%20070059.png?raw=true)
+
 ![](https://github.com/X-Ethan/2025-1.1-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-02%20070214.png?raw=true)
 
 #### **Comprehensive Insights**
 
-Visualize metrics like 近期活动次数，新贡献者增长率，问题想要率，代码更改稳定性，代码密度问题和OpenRank趋势 to gain a 360-degree view of project health.
+Visualize metrics like Recent Activity Count, New Contributor Growth Rate, Issue Response Rate, Code Change Stability, Code Issue Density, OpenRank Trends and Pull Request Acceptance Rate to gain a 360-degree view of project health.
 
 ### Competition Takeaways
 
