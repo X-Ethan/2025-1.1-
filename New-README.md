@@ -25,7 +25,7 @@ The project is powered by Vue and Echarts, and aims to help enterprises optimize
 
 ### Demo video
 
-[https://www.bilibili.com/video/BV1Nh4y1r7Gt/](https://www.bilibili.com/video/BV1nM6oYKEPR/)
+[[https://www.bilibili.com/video/BV1Nh4y1r7Gt/](https://www.bilibili.com/video/BV1nM6oYKEPR/)](https://www.bilibili.com/video/BV1926qYqEPP/?spm_id_from=333.1365.list.card_archive.click&vd_source=003535ecf5788beeb020db928a310ed3)
 + Access the application online by typing the following URL into your browser:[项目健康度指标可视化平台](https://github.com/X-Ethan/2025-1.1-/blob/main/index.html)
 ### Docker deployment
 
